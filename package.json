@@ -1,0 +1,18 @@
+{
+  "author": {
+    "name": "magdalina.civovic"
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-nodemon": "^2.0.3",
+    "mongoose": "^4.1.1"
+  },
+  "description": "RESTwithNode",
+  "main": "index.js",
+  "name": "RESTwithNode",
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "version": "0.0.0"
+}

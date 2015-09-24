@@ -1,0 +1,5 @@
+C:\Users\magdalina.civovic\Documents\Visual Studio 2015\Projects\RESTwithNode\RESTwithNode\obj\Debug\RESTwithNode.njsprojResolveAssemblyReference.cache
+C:\Vs projekti\RESTwithNode\RESTwithNode\obj\Debug\RESTwithNode.njsprojResolveAssemblyReference.cache
+C:\vs\r\RESTwithNode\obj\Debug\RESTwithNode.njsprojResolveAssemblyReference.cache
+C:\r\RESTwithNode\bin\Microsoft.NodejsTools.WebRole.dll
+C:\r\RESTwithNode\obj\Debug\RESTwithNode.njsprojResolveAssemblyReference.cache
